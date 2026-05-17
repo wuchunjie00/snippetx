@@ -1,0 +1,24 @@
+{
+  "name": "@wuchunjie/snippetx",
+  "version": "1.0.0",
+  "description": "\ud83d\udce6 Terminal code snippet manager \u2014 save, search, and copy code snippets instantly",
+  "main": "index.js",
+  "bin": {
+    "snippetx": "index.js"
+  },
+  "keywords": [
+    "snippet",
+    "code",
+    "manager",
+    "clipboard",
+    "notes",
+    "cli",
+    "devtools",
+    "productivity"
+  ],
+  "author": "wuchunjie",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
