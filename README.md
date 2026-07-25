@@ -64,4 +64,18 @@ I had snippets everywhere — Desktop folders, Notion, 47 browser bookmarks. Spe
 
 **One-liner:** `npm i -g scaffoldx-cli @wuchunjie/dotguard @wuchunjie/gitpulse @wuchunjie/snippetx`
 
-☕ [Ko-fi](https://ko-fi.com/wuchunjie) | 📝 [Dev.to](https://dev.to/ke_jia_24bb2f9f84f14f728a) | 💬 [Discussions](https://github.com/wuchunjie00/scaffoldx/discussions)
+
+## 💰 Support & Deploy
+
+**Help me keep these tools free:**
+
+- ☕ [Buy me a coffee](https://ko-fi.com/wuchunjie)
+- ⭐ [Star on GitHub](https://github.com/wuchunjie00/snippetx)
+- 💼 [Sponsor on GitHub](https://github.com/sponsors/wuchunjie00)
+
+**Deploy your next project:**
+
+- ☁️ [DigitalOcean](https://m.do.co/c/PLACEHOLDER) — $200 free credit (no credit card needed)
+- 🚀 [Vercel](https://vercel.com/) — Deploy in seconds, free tier available
+
+☕ [Ko-fi](https://ko-fi.com/wuchunjie) | 📝 [Dev.to](https://dev.to/ke_jia_24bb2f9f84f14f728a) | 💬 [Discussions](https://github.com/wuchunjie00/snippetx/discussions) | 💬 [Discussions](https://github.com/wuchunjie00/scaffoldx/discussions)
